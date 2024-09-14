@@ -3,16 +3,10 @@
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 S
 #src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
-J
-src/main/java/starter.java,8\3\8378cb6cdb6f69d617bfafbbfaa5461c8a402fb1
-t
-Dsrc/test/java/cucumber/stepsDefinitions/EnterPageWebBancolombia.java,4\4\442d8f4bb88c1a387b3bbe5c7401fcedf1712bff
 y
 Isrc/test/java/cucumber/stepsDefinitions/EnterPageWebBancolombiaSteps.java,3\a\3af93120d5107997768d140cd47eb70734316042
 _
 /src/main/java/tasks/SelectBusinessAndTools.java,3\9\390e849305681e23d1a061ee7d85274c98bda80b
-[
-+src/main/java/ui/BussinessAndToolsView.java,c\b\cb693a8bf6b29b06eee673ddee33c3f550a931e6
 Z
 *src/main/java/ui/BusinessAndToolsView.java,4\5\4524f3fa588a6d01efc97bca6b6b369359c09a01
 Y
@@ -28,8 +22,6 @@ Z
 U
 %src/main/java/ui/ToolConvertView.java,6\1\617a11f57cbf95c67a833985f757ab7ec3c89c46
 c
-3src/main/java/tasks/SelectNominalEffecticeRate.java,7\6\76aa810137e104d3a5b13ff6575cf4bafd01fd36
-c
 3src/main/java/tasks/SelectNominalEffectiveRate.java,9\7\9781225ac10a3c94c6d71758bff32d3968d3e7dd
 ^
 .src/main/java/ui/NominalEffectiveRateView.java,b\2\b2529e9613f67d2cc0a6f4ac83bb02a9e82af8fa
@@ -40,6 +32,8 @@ p
 i
 9src/main/java/questions/ValidateValueResultQuestions.java,9\e\9eb6daf711c074a827fcba410913bd5cb8f7b431
 s
-Csrc/test/java/cucumber/stepsDefinitions/ValidateConvertecSteps.java,6\4\6401b8fc5d3f169a35638562f1dd085a072a754c
-s
 Csrc/test/java/cucumber/stepsDefinitions/ValidateConverterSteps.java,a\e\ae7f693c422898afc5df08915f3e1e423c911908
+C
+serenity.properties,2\5\25f1bbdc8dba7ca4a4b90251f1ef69621b24a28c
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

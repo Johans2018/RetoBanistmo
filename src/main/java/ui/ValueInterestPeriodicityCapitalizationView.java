@@ -3,6 +3,11 @@ package ui;
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
+/**
+ * Contiene los elementos de la vista de interés, periodicidad y capitalización en la interfaz de usuario.
+ * Esta clase define los elementos de la interfaz que se utilizan para interactuar con los campos de interés, periodicidad
+ * y capitalización, así como el campo de resultados, a través de la localización de los elementos en la página web.
+ */
 public class ValueInterestPeriodicityCapitalizationView {
 
     public static final Target VALUE_INTEREST_FIELD = Target.the("Value interest field").located(By
