@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Generación de PDF de Prohibiciones de Préstamos de Auto en Banistmo" skipped="0" tests="1" time="21.16" timestamp="2025-08-23 02:59:08"><testcase name="Validar el PDF de prohibiciones sea el correcto"/></testsuite>
