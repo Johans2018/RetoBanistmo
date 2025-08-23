@@ -1,0 +1,35 @@
+
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+S
+#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+Z
+*src/main/java/ui/BusinessAndToolsView.java,4\5\4524f3fa588a6d01efc97bca6b6b369359c09a01
+Y
+)src/test/java/cucumber/runner/Runner.java,8\e\8e1c7e4d2432257191bb8a8040346fd2e9659f6d
+t
+Dsrc/test/java/cucumber/stepsDefinitions/InteractsConverterSteps.java,f\3\f378350e23ddd49044b473a8ea058dfc769ed4d9
+s
+Csrc/test/java/cucumber/stepsDefinitions/ValidateConverterSteps.java,a\e\ae7f693c422898afc5df08915f3e1e423c911908
+b
+2src/main/java/tasks/SelectProductsAndServices.java,2\1\2116a65c2aca21c323dd98116bedc74f22c7f904
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+T
+$src/main/java/tasks/SelectLoans.java,2\5\25d01d7493e1064f3cf02faa1b6c22345d4b59a6
+[
++src/main/java/tasks/SelectRatesAndFees.java,c\2\c2c3ee7d6c96b9ce9b556aa243fb66c9ebd796c0
+v
+Fsrc/test/java/cucumber/stepsDefinitions/EnterPageWebBanistmoSteps.java,d\0\d04136cb3e4c037ea2ec0d742df72b696311cb68
+Q
+!src/main/java/tasks/EnterPDF.java,e\3\e3ca74f9650d9dcf48d2bb6939c71ff3727a73aa
+^
+.src/main/java/tasks/ValidatePDFTabContent.java,1\f\1ff1ae2e9f736e0a114781fb1e8f0c400c9a2d7c
+g
+7src/test/java/cucumber/stepsDefinitions/LoansSteps.java,8\d\8d13afb9a633296d1517854f7b9d9ace52057670
+m
+=src/test/java/cucumber/stepsDefinitions/ValidatePDFSteps.java,0\a\0aa8fddbe098f930c8ae53f32b2af97bc6a39c03
+O
+target/site/serenity/index.html,c\e\ce1d953599e56cfde85da6acfdbbb722b0c73490
+R
+"src/main/java/ui/LocatorsView.java,d\0\d0e843fd5ce57de2df55fc03db3b3b2926dff10e
